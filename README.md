@@ -1,4 +1,4 @@
 # fork_me
-fork was sucessful :D
+fork was successful :D
 
 ¯\_(ツ)_/¯

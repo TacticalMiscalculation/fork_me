@@ -1,7 +1,2 @@
 # fork_me
-fork :D
-
-| | |
- - -
-  |
-  |
+fork was sucessful :D
